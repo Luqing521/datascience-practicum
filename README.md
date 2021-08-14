@@ -1,14 +1,10 @@
-## PM606 Health Data Science Practicum
+## Health Data Science Practicum
 
-### Summer 2021: May 25-August 10, Tuesdays 1pm on Zoom
-
-### Course Description
-
-This course serves as the practicum for the Public Health Data Science program. In this course, students will work to tackle the challenges involved in analyzing an external medical research or healthcare industry dataset.  
-The goal of the practicum is to provide an opportunity to face real-world data science challenges. It will combine exposure to industry and academic experience, including project management techniques, writing effective reports in an efficient manner, efficiency and effectiveness.
+This practicum is for the Public Health Data Science program. In this project, I will work to tackle the challenges involved in analyzing an external medical research or healthcare industry dataset.  
+The goal of the practicum is to deal with real-world data science challenges. It will combine exposure to industry and academic experience, including project management techniques, writing effective reports in an efficient manner, efficiency and effectiveness.
 
 ### Learning Objectives
-Through this practicum course, students will:
+
 - apply the various data science skills studied in the Health Data Science curriculum toward solving a real-world health data challenge 
 - learn to handle the difficulties associated with defining and organizing a data science problem 
 - learn to present and sell ideas to a broad audience, including technical managers, business teams, and stakeholders
@@ -21,13 +17,4 @@ Through this practicum course, students will:
 
 Tools learned in the Public Health Data Science program (R, Git, Markdown) are required for this practicum.
 
-### Grading Breakdown
-
-| Assignment | \% Grade |
-|--------|-------:|
-| Class meetings    | 10   | 
-| Progress Reports (2)     | 10   | 
-| Peer Review of Report    | 10   | 
-| Project Presentation  | 10   | 
-| Final Report    | 60   | 
 
